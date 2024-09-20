@@ -1,10 +1,5 @@
 
 
-<div align="center">
-    <!-- for devicon plain version -->
-    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg' width="100">  
-</div>
-
 
 
 ```html 
